@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-apache-dubbo.iml" filepath="$PROJECT_DIR$/hello-apache-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-apache-dubbo-consumer/hello-apache-dubbo-consumer.iml" filepath="$PROJECT_DIR$/hello-apache-dubbo-consumer/hello-apache-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-apache-dubbo-dependencies/hello-apache-dubbo-dependencies.iml" filepath="$PROJECT_DIR$/hello-apache-dubbo-dependencies/hello-apache-dubbo-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-apache-dubbo-provider/hello-apache-dubbo-provider.iml" filepath="$PROJECT_DIR$/hello-apache-dubbo-provider/hello-apache-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-apache-dubbo-provider/hello-apache-dubbo-provider-api/hello-apache-dubbo-provider-api.iml" filepath="$PROJECT_DIR$/hello-apache-dubbo-provider/hello-apache-dubbo-provider-api/hello-apache-dubbo-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-apache-dubbo-provider/hello-apache-dubbo-provider-service/hello-apache-dubbo-provider-service.iml" filepath="$PROJECT_DIR$/hello-apache-dubbo-provider/hello-apache-dubbo-provider-service/hello-apache-dubbo-provider-service.iml" />
+    </modules>
+  </component>
+</project>
